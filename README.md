@@ -1,4 +1,2 @@
 # git_test
-My first Github repo!
-Hello World!
-Testing 123!!!
+this is my first github repo, learning how to use it...
